@@ -1,0 +1,773 @@
+// File exported with GEGELATI v1.3.1
+// On the 2024-07-14 09:52:46
+// With the MARL::MarlTPGGraphDotExporter
+digraph{
+	graph[pad = "0.212, 0.055" bgcolor = lightgray]
+	node[shape=circle style = filled label = ""]
+		T738 [fillcolor="#66ddff"]
+		T743 [fillcolor="#66ddff"]
+		T763 [fillcolor="#66ddff"]
+		T769 [fillcolor="#66ddff"]
+		T827 [fillcolor="#66ddff"]
+		T1004 [fillcolor="#66ddff"]
+		T1064 [fillcolor="#66ddff"]
+		T1082 [fillcolor="#66ddff"]
+		T1130 [fillcolor="#66ddff"]
+		T1131 [fillcolor="#66ddff"]
+		T1150 [fillcolor="#66ddff"]
+		T1202 [fillcolor="#66ddff"]
+		T1222 [fillcolor="#66ddff"]
+		T1254 [fillcolor="#66ddff"]
+		T1326 [fillcolor="#66ddff"]
+		T1542 [fillcolor="#66ddff"]
+		T1692 [fillcolor="#1199bb"]
+		P31647 [fillcolor="#cccccc" shape=point] //
+		I31647 [shape=box style=invis label="8|3&2|2#1|4&#92;n3|7&3|4#3|7&#92;n4|6&4|3#3|4&#92;n8|0&2|5#0|3&#92;n5|3&0|7#2|3&#92;n5|5&0|1#1|5&#92;n"]
+		P31647 -> I31647[style=invis]
+		A22763 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T738 -> P31647 -> A22763
+		P31648 [fillcolor="#cccccc" shape=point] //
+		I31648 [shape=box style=invis label="0|7&1|6#4|3&#92;n1|0&0|4#1|3&#92;n2|7&4|5#4|1&#92;n4|5&0|4#1|1&#92;n0|4&3|1#2|0&#92;n"]
+		P31648 -> I31648[style=invis]
+		A22764 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T738 -> P31648 -> A22764
+		P31649 [fillcolor="#cccccc" shape=point] //
+		I31649 [shape=box style=invis label="1|0&1|3#2|7&#92;n8|7&0|5#0|1&#92;n8|1&3|6#3|6&#92;n8|2&0|4#0|6&#92;n5|2&1|0#0|6&#92;n1|4&3|3#1|6&#92;n0|3&1|1#2|1&#92;n2|6&4|0#2|0&#92;n6|7&1|3#3|3&#92;n"]
+		P31649 -> I31649[style=invis]
+		A22765 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T738 -> P31649 -> A22765
+		P31650 [fillcolor="#cccccc" shape=point] //
+		I31650 [shape=box style=invis label="8|7&0|5#0|1&#92;n6|7&1|3#3|3&#92;n8|2&0|4#0|6&#92;n5|7&1|0#0|6&#92;n1|4&3|3#1|6&#92;n0|3&1|1#2|1&#92;n2|6&4|0#2|0&#92;n8|1&3|6#3|6&#92;n"]
+		P31650 -> I31650[style=invis]
+		A22766 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T738 -> P31650 -> A22766
+		P31651 [fillcolor="#cccccc" shape=point] //
+		I31651 [shape=box style=invis label="8|3&2|2#1|4&#92;n6|4&2|4#3|6&#92;n3|7&3|4#3|7&#92;n5|5&0|1#1|5&#92;n4|6&4|3#1|4&#92;n5|3&3|7#2|3&#92;n8|0&2|5#0|3&#92;n"]
+		P31651 -> I31651[style=invis]
+		A22767 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T738 -> P31651 -> A22767
+		T738 -> P31649
+		P31652 [fillcolor="#cccccc" shape=point] //
+		I31652 [shape=box style=invis label="5|5&2|4#2|3&#92;n0|0&3|7#3|7&#92;n2|6&3|3#3|6&#92;n2|5&0|1#4|7&#92;n5|0&3|2#3|7&#92;n6|1&1|7#1|6&#92;n8|4&0|7#0|0&#92;n0|0&0|1#1|7&#92;n"]
+		P31652 -> I31652[style=invis]
+		A22768 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T738 -> P31652 -> A22768
+		P31653 [fillcolor="#cccccc" shape=point] //
+		I31653 [shape=box style=invis label="5|3&3|0#4|0&#92;n8|4&3|4#0|5&#92;n2|4&3|3#3|4&#92;n3|1&4|1#3|5&#92;n7|5&4|7#1|6&#92;n2|0&0|2#3|0&#92;n2|3&2|2#4|3&#92;n7|3&1|6#4|2&#92;n2|0&2|2#2|4&#92;n0|2&0|5#3|4&#92;n"]
+		P31653 -> I31653[style=invis]
+		A22769 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T738 -> P31653 -> A22769
+		P31654 [fillcolor="#cccccc" shape=point] //
+		I31654 [shape=box style=invis label="5|5&2|4#2|3&#92;n2|0&3|7#3|7&#92;n2|6&3|3#3|6&#92;n2|5&0|1#4|7&#92;n0|0&0|1#1|7&#92;n6|1&1|7#1|6&#92;n8|4&0|7#0|0&#92;n"]
+		P31654 -> I31654[style=invis]
+		A22770 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T743 -> P31654 -> A22770
+		T743 -> P31653
+		P31655 [fillcolor="#cccccc" shape=point] //
+		I31655 [shape=box style=invis label="3|2&3|0#4|7&#92;n8|3&2|2#1|4&#92;n6|4&2|4#3|6&#92;n8|0&2|5#0|3&#92;n4|6&4|3#3|4&#92;n3|7&3|4#3|7&#92;n5|3&3|7#2|3&#92;n5|5&4|1#1|2&#92;n"]
+		P31655 -> I31655[style=invis]
+		A22771 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T743 -> P31655 -> A22771
+		P31656 [fillcolor="#cccccc" shape=point] //
+		I31656 [shape=box style=invis label="0|0&1|2#1|3&#92;n0|6&1|0#0|6&#92;n3|0&0|6#1|7&#92;n7|3&3|2#3|7&#92;n6|2&3|2#4|5&#92;n4|4&4|0#1|0&#92;n7|5&4|6#1|4&#92;n6|2&3|2#1|3&#92;n3|4&1|4#2|5&#92;n3|4&4|5#1|2&#92;n"]
+		P31656 -> I31656[style=invis]
+		A22772 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="6"]
+		T743 -> P31656 -> A22772
+		P31657 [fillcolor="#cccccc" shape=point] //
+		I31657 [shape=box style=invis label="7|1&2|5#3|3&#92;n6|4&3|5#1|2&#92;n3|5&1|1#3|0&#92;n"]
+		P31657 -> I31657[style=invis]
+		A22773 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T743 -> P31657 -> A22773
+		P31658 [fillcolor="#cccccc" shape=point] //
+		I31658 [shape=box style=invis label="6|0&3|2#2|2&#92;n3|2&2|3#4|1&#92;n2|4&1|2#1|6&#92;n1|4&2|3#0|3&#92;n"]
+		P31658 -> I31658[style=invis]
+		A22774 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T743 -> P31658 -> A22774
+		T743 -> P31657
+		P31659 [fillcolor="#cccccc" shape=point] //
+		I31659 [shape=box style=invis label="7|3&1|6#4|2&#92;n8|1&3|4#0|5&#92;n2|4&3|3#3|4&#92;n3|1&4|1#3|5&#92;n7|5&4|7#1|6&#92;n2|0&0|2#3|0&#92;n2|3&2|2#4|3&#92;n5|3&3|0#4|0&#92;n2|0&2|2#2|4&#92;n0|2&0|5#3|4&#92;n"]
+		P31659 -> I31659[style=invis]
+		A22775 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T743 -> P31659 -> A22775
+		P31660 [fillcolor="#cccccc" shape=point] //
+		I31660 [shape=box style=invis label="0|3&1|1#2|1&#92;n4|7&0|3#2|4&#92;n8|7&0|5#0|1&#92;n8|2&0|4#3|6&#92;n5|6&1|0#0|6&#92;n1|4&3|3#1|6&#92;n2|7&1|3#2|5&#92;n2|6&4|0#2|0&#92;n6|7&3|3#3|3&#92;n"]
+		P31660 -> I31660[style=invis]
+		A22776 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T743 -> P31660 -> A22776
+		P31661 [fillcolor="#cccccc" shape=point] //
+		I31661 [shape=box style=invis label="1|0&1|3#2|7&#92;n8|7&0|5#0|1&#92;n8|2&0|4#3|6&#92;n5|2&1|0#0|6&#92;n0|3&1|1#2|1&#92;n1|4&3|3#1|6&#92;n2|6&4|0#2|0&#92;n6|7&1|3#3|3&#92;n"]
+		P31661 -> I31661[style=invis]
+		A22777 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T763 -> P31661 -> A22777
+		P31662 [fillcolor="#cccccc" shape=point] //
+		I31662 [shape=box style=invis label="8|3&2|2#1|4&#92;n6|4&2|4#3|6&#92;n3|7&3|4#3|7&#92;n8|0&2|5#0|3&#92;n4|6&4|3#3|4&#92;n5|3&3|7#2|3&#92;n5|5&0|1#1|5&#92;n"]
+		P31662 -> I31662[style=invis]
+		A22778 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T763 -> P31662 -> A22778
+		T763 -> P31654
+		P31663 [fillcolor="#cccccc" shape=point] //
+		I31663 [shape=box style=invis label="3|0&0|2#3|0&#92;n6|5&1|6#2|3&#92;n4|7&1|5#0|1&#92;n2|1&3|1#2|3&#92;n8|3&1|2#2|0&#92;n6|0&0|5#2|2&#92;n6|7&0|0#0|7&#92;n6|6&3|3#2|2&#92;n8|3&1|4#1|3&#92;n"]
+		P31663 -> I31663[style=invis]
+		A22779 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T763 -> P31663 -> A22779
+		P31664 [fillcolor="#cccccc" shape=point] //
+		I31664 [shape=box style=invis label="0|4&1|1#2|0&#92;n5|4&4|7#3|6&#92;n1|0&0|4#1|3&#92;n7|7&1|6#1|3&#92;n8|5&0|4#1|1&#92;n"]
+		P31664 -> I31664[style=invis]
+		A22780 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T763 -> P31664 -> A22780
+		P31665 [fillcolor="#cccccc" shape=point] //
+		I31665 [shape=box style=invis label="6|2&2|7#3|6&#92;n1|4&2|4#1|3&#92;n5|5&0|0#2|2&#92;n1|0&3|3#2|5&#92;n"]
+		P31665 -> I31665[style=invis]
+		A22781 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T763 -> P31665 -> A22781
+		P31666 [fillcolor="#cccccc" shape=point] //
+		I31666 [shape=box style=invis label="1|4&3|3#1|6&#92;n8|2&0|4#0|6&#92;n5|7&1|0#0|6&#92;n6|7&1|3#3|3&#92;n0|3&1|1#2|1&#92;n2|6&4|0#2|0&#92;n8|1&3|6#3|2&#92;n"]
+		P31666 -> I31666[style=invis]
+		A22782 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T763 -> P31666 -> A22782
+		T763 -> P31649
+		P31667 [fillcolor="#cccccc" shape=point] //
+		I31667 [shape=box style=invis label="8|5&0|4#1|1&#92;n1|0&0|2#1|3&#92;n0|4&3|1#2|0&#92;n5|4&4|7#3|6&#92;n"]
+		P31667 -> I31667[style=invis]
+		A22783 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T763 -> P31667 -> A22783
+		T763 -> P31649
+		T763 -> P31662
+		T763 -> P31655
+		T763 -> P31653
+		P31668 [fillcolor="#cccccc" shape=point] //
+		I31668 [shape=box style=invis label="3|7&0|7#2|0&#92;n5|0&4|2#3|2&#92;n0|1&3|4#4|3&#92;n"]
+		P31668 -> I31668[style=invis]
+		A22784 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="8"]
+		T769 -> P31668 -> A22784
+		T769 -> P31654
+		T769 -> P31653
+		P31669 [fillcolor="#cccccc" shape=point] //
+		I31669 [shape=box style=invis label="6|0&3|2#2|2&#92;n3|5&2|3#4|1&#92;n3|5&1|7#0|3&#92;n2|4&1|2#1|6&#92;n"]
+		P31669 -> I31669[style=invis]
+		A22785 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T769 -> P31669 -> A22785
+		T769 -> P31662
+		T769 -> P31649
+		P31670 [fillcolor="#cccccc" shape=point] //
+		I31670 [shape=box style=invis label="1|1&4|2#0|7&#92;n1|0&0|6#1|0&#92;n"]
+		P31670 -> I31670[style=invis]
+		T769 -> P31670 -> T738
+		P31671 [fillcolor="#cccccc" shape=point] //
+		I31671 [shape=box style=invis label="7|2&3|0#1|3&#92;n4|1&1|3#3|2&#92;n5|0&0|5#0|3&#92;n0|2&0|2#2|6&#92;n"]
+		P31671 -> I31671[style=invis]
+		T769 -> P31671 -> T743
+		P31672 [fillcolor="#cccccc" shape=point] //
+		I31672 [shape=box style=invis label="5|4&4|7#3|6&#92;n0|7&1|6#4|3&#92;n1|0&0|4#1|3&#92;n0|4&3|1#2|0&#92;n8|5&0|4#1|1&#92;n"]
+		P31672 -> I31672[style=invis]
+		A22786 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T769 -> P31672 -> A22786
+		T769 -> P31649
+		T769 -> P31654
+		T827 -> P31662
+		T827 -> P31664
+		P31673 [fillcolor="#cccccc" shape=point] //
+		I31673 [shape=box style=invis label="5|7&2|0#0|6&#92;n8|0&2|4#0|6&#92;n6|4&1|3#3|3&#92;n2|6&4|0#2|0&#92;n0|3&1|1#2|1&#92;n8|7&4|3#1|0&#92;n8|1&3|6#3|2&#92;n7|5&0|4#2|3&#92;n1|4&3|0#1|6&#92;n"]
+		P31673 -> I31673[style=invis]
+		A22787 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T827 -> P31673 -> A22787
+		P31674 [fillcolor="#cccccc" shape=point] //
+		I31674 [shape=box style=invis label="1|2&3|7#4|7&#92;n3|2&0|4#1|4&#92;n7|1&0|3#3|4&#92;n7|6&3|3#2|6&#92;n5|2&3|4#1|0&#92;n8|3&1|4#1|0&#92;n1|2&3|6#0|2&#92;n3|0&3|7#4|7&#92;n"]
+		P31674 -> I31674[style=invis]
+		A22788 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T827 -> P31674 -> A22788
+		P31675 [fillcolor="#cccccc" shape=point] //
+		I31675 [shape=box style=invis label="0|5&2|0#1|7&#92;n4|7&4|0#4|0&#92;n3|1&4|2#4|7&#92;n2|0&2|6#1|1&#92;n"]
+		P31675 -> I31675[style=invis]
+		T827 -> P31675 -> T763
+		P31676 [fillcolor="#cccccc" shape=point] //
+		I31676 [shape=box style=invis label="6|2&2|7#3|6&#92;n5|5&0|0#2|3&#92;n1|4&2|4#1|3&#92;n1|0&3|3#2|5&#92;n"]
+		P31676 -> I31676[style=invis]
+		A22789 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T827 -> P31676 -> A22789
+		P31677 [fillcolor="#cccccc" shape=point] //
+		I31677 [shape=box style=invis label="5|3&3|0#4|0&#92;n2|4&3|3#3|4&#92;n8|4&3|4#0|5&#92;n3|1&4|1#2|5&#92;n2|3&2|2#1|3&#92;n7|5&4|7#1|6&#92;n3|0&4|5#4|0&#92;n7|3&1|6#4|2&#92;n0|2&0|5#3|4&#92;n"]
+		P31677 -> I31677[style=invis]
+		A22790 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T827 -> P31677 -> A22790
+		P31678 [fillcolor="#cccccc" shape=point] //
+		I31678 [shape=box style=invis label="6|1&1|7#1|6&#92;n2|0&3|7#3|7&#92;n8|4&0|7#0|1&#92;n0|0&0|1#1|4&#92;n5|5&2|4#2|3&#92;n2|5&0|1#4|7&#92;n"]
+		P31678 -> I31678[style=invis]
+		T827 -> P31678 -> T769
+		T827 -> P31654
+		P31679 [fillcolor="#cccccc" shape=point] //
+		I31679 [shape=box style=invis label="2|1&3|6#4|6&#92;n3|6&4|0#0|7&#92;n1|3&0|7#3|4&#92;n6|3&2|0#2|6&#92;n7|0&4|3#3|0&#92;n"]
+		P31679 -> I31679[style=invis]
+		A22791 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T827 -> P31679 -> A22791
+		T827 -> P31655
+		T827 -> P31653
+		P31680 [fillcolor="#cccccc" shape=point] //
+		I31680 [shape=box style=invis label="7|6&1|6#2|7&#92;n2|1&1|3#3|2&#92;n7|3&1|2#3|5&#92;n6|2&2|5#4|7&#92;n5|0&1|5#0|0&#92;n2|5&4|7#1|0&#92;n"]
+		P31680 -> I31680[style=invis]
+		T827 -> P31680 -> T743
+		T827 -> P31654
+		T827 -> P31673
+		T1004 -> P31676
+		P31681 [fillcolor="#cccccc" shape=point] //
+		I31681 [shape=box style=invis label="3|4&1|5#0|0&#92;n6|6&2|1#4|6&#92;n5|3&1|0#0|4&#92;n6|0&4|1#1|4&#92;n"]
+		P31681 -> I31681[style=invis]
+		A22792 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1004 -> P31681 -> A22792
+		P31682 [fillcolor="#cccccc" shape=point] //
+		I31682 [shape=box style=invis label="8|5&0|4#2|1&#92;n1|0&0|5#1|3&#92;n5|4&4|7#3|7&#92;n7|7&1|6#1|3&#92;n"]
+		P31682 -> I31682[style=invis]
+		A22793 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1004 -> P31682 -> A22793
+		P31683 [fillcolor="#cccccc" shape=point] //
+		I31683 [shape=box style=invis label="8|0&2|5#0|3&#92;n3|7&3|6#3|7&#92;n4|6&4|3#1|4&#92;n6|4&2|4#3|6&#92;n5|3&3|3#2|3&#92;n7|7&3|1#2|3&#92;n8|3&2|2#1|4&#92;n8|0&0|0#4|1&#92;n"]
+		P31683 -> I31683[style=invis]
+		A22794 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T1004 -> P31683 -> A22794
+		P31684 [fillcolor="#cccccc" shape=point] //
+		I31684 [shape=box style=invis label="6|1&2|6#4|0&#92;n1|7&1|6#1|2&#92;n5|0&2|2#2|1&#92;n1|4&0|2#3|5&#92;n1|5&0|4#0|3&#92;n5|3&2|6#3|3&#92;n5|3&2|6#2|3&#92;n"]
+		P31684 -> I31684[style=invis]
+		A22795 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1004 -> P31684 -> A22795
+		P31685 [fillcolor="#cccccc" shape=point] //
+		I31685 [shape=box style=invis label="8|4&1|2#4|3&#92;n2|7&0|3#4|0&#92;n1|4&1|0#1|0&#92;n6|1&0|6#1|2&#92;n4|1&1|5#3|4&#92;n1|4&4|0#1|4&#92;n7|0&3|3#4|5&#92;n"]
+		P31685 -> I31685[style=invis]
+		A22796 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1004 -> P31685 -> A22796
+		P31686 [fillcolor="#cccccc" shape=point] //
+		I31686 [shape=box style=invis label="2|3&0|1#4|7&#92;n2|5&1|5#4|0&#92;n6|0&1|7#1|3&#92;n5|5&2|4#2|3&#92;n2|6&0|2#1|1&#92;n2|6&3|3#3|6&#92;n4|1&4|1#1|6&#92;n"]
+		P31686 -> I31686[style=invis]
+		A22797 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1004 -> P31686 -> A22797
+		P31687 [fillcolor="#cccccc" shape=point] //
+		I31687 [shape=box style=invis label="2|1&1|7#0|4&#92;n6|0&4|6#1|1&#92;n4|2&2|0#0|3&#92;n1|3&1|4#0|4&#92;n"]
+		P31687 -> I31687[style=invis]
+		T1004 -> P31687 -> T763
+		P31688 [fillcolor="#cccccc" shape=point] //
+		I31688 [shape=box style=invis label="5|5&1|0#4|4&#92;n3|3&4|0#3|7&#92;n8|3&4|4#2|6&#92;n2|0&2|7#1|0&#92;n0|7&2|3#1|7&#92;n4|6&3|1#3|6&#92;n3|3&3|7#0|4&#92;n7|5&2|7#2|6&#92;n"]
+		P31688 -> I31688[style=invis]
+		A22798 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1004 -> P31688 -> A22798
+		P31689 [fillcolor="#cccccc" shape=point] //
+		I31689 [shape=box style=invis label="3|1&4|2#4|7&#92;n2|0&2|6#1|1&#92;n4|7&4|0#4|0&#92;n0|5&2|0#2|7&#92;n8|5&4|0#0|4&#92;n"]
+		P31689 -> I31689[style=invis]
+		T1004 -> P31689 -> T763
+		P31690 [fillcolor="#cccccc" shape=point] //
+		I31690 [shape=box style=invis label="5|3&3|0#4|0&#92;n2|3&2|2#2|5&#92;n8|4&3|4#0|5&#92;n2|4&1|3#3|4&#92;n1|2&3|2#4|4&#92;n2|3&2|2#4|3&#92;n7|3&4|7#1|6&#92;n7|3&0|6#4|2&#92;n3|1&4|1#3|5&#92;n0|0&0|1#3|4&#92;n"]
+		P31690 -> I31690[style=invis]
+		A22799 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T1004 -> P31690 -> A22799
+		P31691 [fillcolor="#cccccc" shape=point] //
+		I31691 [shape=box style=invis label="8|0&2|4#0|6&#92;n2|6&4|0#2|0&#92;n6|4&4|5#4|4&#92;n6|4&1|3#3|4&#92;n5|7&2|0#0|6&#92;n0|3&1|1#2|1&#92;n8|7&4|3#1|0&#92;n5|4&0|4#1|4&#92;n7|5&0|4#2|3&#92;n1|4&3|0#3|6&#92;n"]
+		P31691 -> I31691[style=invis]
+		A22800 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1004 -> P31691 -> A22800
+		P31692 [fillcolor="#cccccc" shape=point] //
+		I31692 [shape=box style=invis label="5|6&2|6#0|5&#92;n1|6&3|0#0|4&#92;n3|0&2|6#1|4&#92;n"]
+		P31692 -> I31692[style=invis]
+		A22801 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1004 -> P31692 -> A22801
+		T1004 -> P31689
+		P31693 [fillcolor="#cccccc" shape=point] //
+		I31693 [shape=box style=invis label="0|5&3|0#1|7&#92;n4|7&4|0#4|0&#92;n2|0&2|6#1|7&#92;n"]
+		P31693 -> I31693[style=invis]
+		T1004 -> P31693 -> T763
+		P31694 [fillcolor="#cccccc" shape=point] //
+		I31694 [shape=box style=invis label="6|4&2|4#3|7&#92;n1|3&0|6#2|2&#92;n0|6&4|3#1|2&#92;n5|3&0|3#2|3&#92;n8|0&2|0#4|1&#92;n7|7&3|1#2|3&#92;n7|2&3|7#3|0&#92;n"]
+		P31694 -> I31694[style=invis]
+		A22802 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T1064 -> P31694 -> A22802
+		P31695 [fillcolor="#cccccc" shape=point] //
+		I31695 [shape=box style=invis label="6|1&2|2#2|1&#92;n1|5&0|4#0|3&#92;n5|3&2|6#2|7&#92;n5|0&2|6#3|3&#92;n6|1&2|0#4|0&#92;n"]
+		P31695 -> I31695[style=invis]
+		A22803 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T1064 -> P31695 -> A22803
+		P31696 [fillcolor="#cccccc" shape=point] //
+		I31696 [shape=box style=invis label="5|5&2|4#2|3&#92;n2|0&3|7#3|7&#92;n2|6&3|3#3|6&#92;n0|0&0|1#1|7&#92;n2|5&0|1#4|7&#92;n6|1&1|7#1|3&#92;n"]
+		P31696 -> I31696[style=invis]
+		A22804 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1064 -> P31696 -> A22804
+		P31697 [fillcolor="#cccccc" shape=point] //
+		I31697 [shape=box style=invis label="6|0&4|6#1|6&#92;n4|4&0|1#0|7&#92;n2|0&2|5#1|6&#92;n6|6&2|3#0|2&#92;n5|3&2|1#4|7&#92;n2|1&2|7#1|4&#92;n0|1&2|5#3|3&#92;n"]
+		P31697 -> I31697[style=invis]
+		T1064 -> P31697 -> T763
+		T1064 -> P31688
+		P31698 [fillcolor="#cccccc" shape=point] //
+		I31698 [shape=box style=invis label="5|2&4|5#3|4&#92;n"]
+		P31698 -> I31698[style=invis]
+		T1064 -> P31698 -> T763
+		P31699 [fillcolor="#cccccc" shape=point] //
+		I31699 [shape=box style=invis label="2|4&1|3#3|4&#92;n2|3&2|2#2|4&#92;n8|4&3|4#0|5&#92;n3|1&4|1#3|5&#92;n1|2&3|2#4|4&#92;n2|3&1|2#4|3&#92;n7|3&4|7#1|6&#92;n5|3&3|0#4|0&#92;n0|0&0|1#3|4&#92;n"]
+		P31699 -> I31699[style=invis]
+		A22805 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T1064 -> P31699 -> A22805
+		P31700 [fillcolor="#cccccc" shape=point] //
+		I31700 [shape=box style=invis label="8|3&4|4#2|6&#92;n3|3&3|7#0|4&#92;n2|0&2|7#1|0&#92;n0|6&2|3#1|7&#92;n8|0&0|6#0|7&#92;n2|2&2|6#2|3&#92;n7|3&2|0#3|2&#92;n7|5&2|7#2|6&#92;n"]
+		P31700 -> I31700[style=invis]
+		A22806 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1064 -> P31700 -> A22806
+		P31701 [fillcolor="#cccccc" shape=point] //
+		I31701 [shape=box style=invis label="7|1&1|4#1|3&#92;n7|6&3|1#0|4&#92;n0|5&0|4#2|1&#92;n5|4&1|7#3|7&#92;n8|0&4|0#2|4&#92;n1|7&3|4#2|4&#92;n8|6&2|0#0|1&#92;n"]
+		P31701 -> I31701[style=invis]
+		T1064 -> P31701 -> T1004
+		T1064 -> P31662
+		P31702 [fillcolor="#cccccc" shape=point] //
+		I31702 [shape=box style=invis label="4|6&1|0#3|1&#92;n6|2&2|3#2|6&#92;n4|6&0|3#1|5&#92;n0|0&2|1#4|4&#92;n7|5&0|0#2|3&#92;n"]
+		P31702 -> I31702[style=invis]
+		A22807 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1064 -> P31702 -> A22807
+		P31703 [fillcolor="#cccccc" shape=point] //
+		I31703 [shape=box style=invis label="8|5&0|4#2|1&#92;n3|7&2|6#0|1&#92;n5|4&4|7#3|7&#92;n8|0&0|5#1|3&#92;n"]
+		P31703 -> I31703[style=invis]
+		A22808 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1064 -> P31703 -> A22808
+		T1064 -> P31665
+		P31704 [fillcolor="#cccccc" shape=point] //
+		I31704 [shape=box style=invis label="6|1&2|2#2|1&#92;n1|5&0|4#0|3&#92;n5|5&2|6#2|7&#92;n2|2&1|4#1|2&#92;n5|0&2|6#3|3&#92;n6|1&2|0#4|0&#92;n"]
+		P31704 -> I31704[style=invis]
+		A22809 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T1064 -> P31704 -> A22809
+		P31705 [fillcolor="#cccccc" shape=point] //
+		I31705 [shape=box style=invis label="3|6&1|6#2|7&#92;n2|1&3|3#3|2&#92;n2|5&4|7#1|0&#92;n6|2&2|5#4|4&#92;n0|0&2|4#1|7&#92;n"]
+		P31705 -> I31705[style=invis]
+		T1064 -> P31705 -> T743
+		T1082 -> P31673
+		P31706 [fillcolor="#cccccc" shape=point] //
+		I31706 [shape=box style=invis label="3|0&4|3#3|2&#92;n4|1&1|2#1|2&#92;n"]
+		P31706 -> I31706[style=invis]
+		T1082 -> P31706 -> T763
+		P31707 [fillcolor="#cccccc" shape=point] //
+		I31707 [shape=box style=invis label="5|5&4|3#4|4&#92;n1|0&4|0#3|1&#92;n8|4&4|7#3|7&#92;n0|7&1|6#1|0&#92;n5|5&1|7#3|1&#92;n6|5&4|5#2|4&#92;n3|5&4|2#3|7&#92;n"]
+		P31707 -> I31707[style=invis]
+		A22810 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1082 -> P31707 -> A22810
+		P31708 [fillcolor="#cccccc" shape=point] //
+		I31708 [shape=box style=invis label="1|5&0|4#0|3&#92;n6|0&1|5#1|1&#92;n5|3&2|7#2|7&#92;n5|1&2|2#2|5&#92;n"]
+		P31708 -> I31708[style=invis]
+		A22811 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1082 -> P31708 -> A22811
+		T1082 -> P31699
+		P31709 [fillcolor="#cccccc" shape=point] //
+		I31709 [shape=box style=invis label="1|0&0|4#1|3&#92;n5|4&1|1#2|0&#92;n7|0&2|3#4|4&#92;n7|7&1|6#1|3&#92;n5|4&4|7#3|6&#92;n0|2&0|7#4|6&#92;n"]
+		P31709 -> I31709[style=invis]
+		A22812 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1082 -> P31709 -> A22812
+		P31710 [fillcolor="#cccccc" shape=point] //
+		I31710 [shape=box style=invis label="8|5&0|4#1|1&#92;n1|4&1|1#2|0&#92;n1|0&0|5#1|3&#92;n0|7&1|6#1|3&#92;n5|4&4|7#3|6&#92;n3|1&0|2#3|4&#92;n"]
+		P31710 -> I31710[style=invis]
+		A22813 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1082 -> P31710 -> A22813
+		P31711 [fillcolor="#cccccc" shape=point] //
+		I31711 [shape=box style=invis label="8|1&0|6#0|4&#92;n8|6&0|0#0|1&#92;n4|6&4|5#3|3&#92;n0|7&0|2#3|3&#92;n2|0&4|3#4|3&#92;n5|4&0|5#0|4&#92;n3|7&3|3#0|5&#92;n"]
+		P31711 -> I31711[style=invis]
+		T1082 -> P31711 -> T1064
+		P31712 [fillcolor="#cccccc" shape=point] //
+		I31712 [shape=box style=invis label="2|0&2|0#1|1&#92;n8|1&1|5#1|4&#92;n4|0&3|6#0|0&#92;n2|6&4|4#1|7&#92;n4|3&3|2#4|7&#92;n0|5&2|0#2|3&#92;n"]
+		P31712 -> I31712[style=invis]
+		T1082 -> P31712 -> T763
+		P31713 [fillcolor="#cccccc" shape=point] //
+		I31713 [shape=box style=invis label="1|5&0|4#0|3&#92;n5|3&2|7#2|7&#92;n6|0&1|5#4|1&#92;n3|6&0|5#2|7&#92;n5|1&2|2#2|5&#92;n"]
+		P31713 -> I31713[style=invis]
+		A22814 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1082 -> P31713 -> A22814
+		P31714 [fillcolor="#cccccc" shape=point] //
+		I31714 [shape=box style=invis label="2|7&4|3#3|3&#92;n4|1&2|3#4|6&#92;n1|0&3|2#3|1&#92;n"]
+		P31714 -> I31714[style=invis]
+		T1082 -> P31714 -> T827
+		P31715 [fillcolor="#cccccc" shape=point] //
+		I31715 [shape=box style=invis label="1|4&1|0#1|2&#92;n2|7&4|3#4|0&#92;n8|4&1|2#4|3&#92;n6|1&0|6#1|2&#92;n7|0&3|3#4|5&#92;n1|4&4|0#1|4&#92;n"]
+		P31715 -> I31715[style=invis]
+		A22815 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1082 -> P31715 -> A22815
+		P31716 [fillcolor="#cccccc" shape=point] //
+		I31716 [shape=box style=invis label="7|4&3|4#0|5&#92;n2|4&3|3#3|7&#92;n2|0&2|2#2|4&#92;n7|5&4|7#1|6&#92;n2|0&4|2#3|0&#92;n1|0&4|3#1|2&#92;n0|3&2|2#4|3&#92;n0|2&0|5#3|4&#92;n4|6&0|0#0|6&#92;n7|3&1|6#4|0&#92;n"]
+		P31716 -> I31716[style=invis]
+		T1082 -> P31716 -> T827
+		T1082 -> P31681
+		P31717 [fillcolor="#cccccc" shape=point] //
+		I31717 [shape=box style=invis label="5|7&2|0#0|6&#92;n8|0&2|4#0|6&#92;n6|4&1|3#3|3&#92;n2|6&4|0#2|0&#92;n1|4&2|0#1|6&#92;n8|0&3|2#2|4&#92;n8|2&4|3#1|0&#92;n7|5&0|4#2|5&#92;n"]
+		P31717 -> I31717[style=invis]
+		A22816 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1130 -> P31717 -> A22816
+		P31718 [fillcolor="#cccccc" shape=point] //
+		I31718 [shape=box style=invis label="1|0&3|3#1|5&#92;n5|5&0|0#2|3&#92;n1|4&2|4#1|3&#92;n7|2&4|1#2|2&#92;n6|2&2|7#3|6&#92;n"]
+		P31718 -> I31718[style=invis]
+		A22817 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1130 -> P31718 -> A22817
+		P31719 [fillcolor="#cccccc" shape=point] //
+		I31719 [shape=box style=invis label="6|5&3|1#1|3&#92;n7|1&1|1#1|6&#92;n8|0&1|0#1|4&#92;n1|6&4|0#1|3&#92;n1|0&3|2#0|4&#92;n"]
+		P31719 -> I31719[style=invis]
+		A22818 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1130 -> P31719 -> A22818
+		P31720 [fillcolor="#cccccc" shape=point] //
+		I31720 [shape=box style=invis label="2|0&3|7#3|7&#92;n5|5&2|4#2|3&#92;n2|6&3|3#3|6&#92;n0|0&0|1#1|7&#92;n2|5&0|1#4|7&#92;n6|1&1|7#4|3&#92;n"]
+		P31720 -> I31720[style=invis]
+		A22819 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1130 -> P31720 -> A22819
+		T1130 -> P31697
+		T1130 -> P31699
+		P31721 [fillcolor="#cccccc" shape=point] //
+		I31721 [shape=box style=invis label="3|6&2|0#0|1&#92;n8|0&4|0#2|4&#92;n7|6&3|1#0|4&#92;n1|4&1|0#1|7&#92;n5|2&0|2#4|0&#92;n1|7&3|4#2|4&#92;n7|1&1|4#1|3&#92;n"]
+		P31721 -> I31721[style=invis]
+		T1130 -> P31721 -> T1082
+		P31722 [fillcolor="#cccccc" shape=point] //
+		I31722 [shape=box style=invis label="6|1&4|0#2|3&#92;n8|0&0|4#2|7&#92;n0|4&1|3#0|6&#92;n6|3&2|7#4|6&#92;n5|5&2|0#2|3&#92;n6|6&0|1#0|1&#92;n8|6&3|0#3|7&#92;n7|7&4|3#1|2&#92;n"]
+		P31722 -> I31722[style=invis]
+		A22820 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1130 -> P31722 -> A22820
+		P31723 [fillcolor="#cccccc" shape=point] //
+		I31723 [shape=box style=invis label="2|0&0|0#0|6&#92;n6|5&1|1#3|0&#92;n3|3&3|2#0|5&#92;n7|5&4|4#2|3&#92;n7|0&1|1#2|1&#92;n2|6&4|0#2|3&#92;n"]
+		P31723 -> I31723[style=invis]
+		A22821 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1130 -> P31723 -> A22821
+		P31724 [fillcolor="#cccccc" shape=point] //
+		I31724 [shape=box style=invis label="5|3&2|6#2|7&#92;n1|5&0|4#0|3&#92;n5|1&2|2#2|1&#92;n5|3&2|6#3|3&#92;n6|1&2|6#4|0&#92;n"]
+		P31724 -> I31724[style=invis]
+		A22822 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1130 -> P31724 -> A22822
+		T1130 -> P31724
+		T1130 -> P31708
+		T1130 -> P31720
+		T1130 -> P31695
+		T1130 -> P31713
+		P31725 [fillcolor="#cccccc" shape=point] //
+		I31725 [shape=box style=invis label="5|7&2|0#0|6&#92;n8|0&2|4#0|6&#92;n6|4&1|3#3|3&#92;n2|6&4|0#2|0&#92;n1|4&2|0#1|6&#92;n7|5&0|4#2|3&#92;n8|2&4|3#1|0&#92;n8|0&3|2#2|4&#92;n"]
+		P31725 -> I31725[style=invis]
+		A22823 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1131 -> P31725 -> A22823
+		T1131 -> P31718
+		P31726 [fillcolor="#cccccc" shape=point] //
+		I31726 [shape=box style=invis label="5|1&2|2#2|1&#92;n1|5&0|4#0|3&#92;n5|3&2|6#2|7&#92;n5|3&2|6#3|3&#92;n6|1&2|0#4|0&#92;n"]
+		P31726 -> I31726[style=invis]
+		A22824 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1131 -> P31726 -> A22824
+		P31727 [fillcolor="#cccccc" shape=point] //
+		I31727 [shape=box style=invis label="5|5&1|2#4|3&#92;n7|0&3|7#4|5&#92;n1|6&4|0#1|4&#92;n7|1&1|6#1|6&#92;n"]
+		P31727 -> I31727[style=invis]
+		A22825 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1131 -> P31727 -> A22825
+		T1131 -> P31720
+		P31728 [fillcolor="#cccccc" shape=point] //
+		I31728 [shape=box style=invis label="6|0&4|6#1|6&#92;n2|4&0|1#0|7&#92;n2|0&2|5#1|6&#92;n6|6&2|3#0|2&#92;n0|1&2|5#3|3&#92;n2|1&2|7#1|4&#92;n5|3&2|1#4|7&#92;n"]
+		P31728 -> I31728[style=invis]
+		T1131 -> P31728 -> T763
+		T1131 -> P31699
+		T1131 -> P31688
+		P31729 [fillcolor="#cccccc" shape=point] //
+		I31729 [shape=box style=invis label="7|1&1|4#1|3&#92;n8|0&4|0#2|4&#92;n0|5&0|4#2|1&#92;n5|7&0|2#4|0&#92;n7|6&3|1#0|4&#92;n1|7&3|4#2|4&#92;n3|6&2|0#0|1&#92;n"]
+		P31729 -> I31729[style=invis]
+		T1131 -> P31729 -> T1082
+		T1131 -> P31676
+		T1131 -> P31723
+		T1131 -> P31724
+		T1131 -> P31724
+		T1131 -> P31708
+		P31730 [fillcolor="#cccccc" shape=point] //
+		I31730 [shape=box style=invis label="1|0&0|4#1|3&#92;n5|4&1|1#2|0&#92;n7|0&2|3#4|4&#92;n7|7&1|6#1|3&#92;n5|4&4|7#3|6&#92;n"]
+		P31730 -> I31730[style=invis]
+		A22826 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1131 -> P31730 -> A22826
+		T1150 -> P31725
+		T1150 -> P31720
+		T1150 -> P31728
+		T1150 -> P31688
+		T1150 -> P31729
+		T1150 -> P31676
+		T1150 -> P31723
+		T1150 -> P31724
+		T1150 -> P31724
+		T1150 -> P31708
+		T1150 -> P31730
+		P31731 [fillcolor="#cccccc" shape=point] //
+		I31731 [shape=box style=invis label="7|3&1|6#4|0&#92;n2|0&2|2#2|4&#92;n7|5&4|7#1|6&#92;n2|0&4|2#3|0&#92;n1|0&4|3#1|5&#92;n0|3&2|2#4|3&#92;n0|2&0|5#3|4&#92;n4|6&0|0#0|6&#92;n7|4&3|4#0|5&#92;n"]
+		P31731 -> I31731[style=invis]
+		T1150 -> P31731 -> T827
+		P31732 [fillcolor="#cccccc" shape=point] //
+		I31732 [shape=box style=invis label="1|0&2|0#0|6&#92;n0|5&3|2#3|5&#92;n7|6&1|1#0|1&#92;n"]
+		P31732 -> I31732[style=invis]
+		T1150 -> P31732 -> T763
+		T1150 -> P31710
+		P31733 [fillcolor="#cccccc" shape=point] //
+		I31733 [shape=box style=invis label="4|7&4|0#4|0&#92;n3|1&4|2#4|7&#92;n2|0&2|6#1|1&#92;n7|4&0|5#0|4&#92;n0|5&1|0#2|7&#92;n8|5&4|0#0|4&#92;n"]
+		P31733 -> I31733[style=invis]
+		T1150 -> P31733 -> T763
+		P31734 [fillcolor="#cccccc" shape=point] //
+		I31734 [shape=box style=invis label="4|5&4|4#2|5&#92;n2|6&4|0#2|0&#92;n6|4&1|3#3|3&#92;n5|7&2|0#2|6&#92;n8|0&2|4#0|6&#92;n1|4&2|0#1|6&#92;n7|5&0|0#2|5&#92;n8|2&4|3#1|0&#92;n2|4&4|2#0|2&#92;n8|0&3|2#1|4&#92;n"]
+		P31734 -> I31734[style=invis]
+		A22827 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1202 -> P31734 -> A22827
+		P31735 [fillcolor="#cccccc" shape=point] //
+		I31735 [shape=box style=invis label="3|3&2|1#2|1&#92;n4|7&4|7#3|2&#92;n4|5&1|2#3|1&#92;n3|5&0|1#1|1&#92;n5|4&3|7#1|0&#92;n7|0&0|1#4|1&#92;n0|0&4|6#1|6&#92;n4|6&2|3#1|6&#92;n1|6&4|3#4|6&#92;n6|1&3|3#0|3&#92;n"]
+		P31735 -> I31735[style=invis]
+		A22828 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1202 -> P31735 -> A22828
+		P31736 [fillcolor="#cccccc" shape=point] //
+		I31736 [shape=box style=invis label="7|1&1|1#1|6&#92;n6|5&3|1#1|3&#92;n1|2&2|1#3|0&#92;n8|0&1|0#2|4&#92;n4|2&3|7#4|7&#92;n1|6&4|0#1|3&#92;n1|7&3|2#0|4&#92;n"]
+		P31736 -> I31736[style=invis]
+		A22829 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1202 -> P31736 -> A22829
+		P31737 [fillcolor="#cccccc" shape=point] //
+		I31737 [shape=box style=invis label="0|6&1|5#2|6&#92;n8|1&2|7#2|4&#92;n8|0&0|6#0|5&#92;n6|7&4|7#3|6&#92;n0|7&2|4#0|3&#92;n1|4&4|1#3|6&#92;n7|7&2|5#3|0&#92;n7|4&1|7#2|3&#92;n5|6&4|4#3|7&#92;n7|3&4|2#0|0&#92;n"]
+		P31737 -> I31737[style=invis]
+		T1202 -> P31737 -> T763
+		P31738 [fillcolor="#cccccc" shape=point] //
+		I31738 [shape=box style=invis label="7|6&3|1#0|4&#92;n8|0&4|0#2|4&#92;n7|1&1|4#1|3&#92;n1|7&1|0#1|7&#92;n5|7&0|2#4|0&#92;n0|5&0|4#2|1&#92;n1|7&3|4#2|4&#92;n3|6&2|0#0|1&#92;n"]
+		P31738 -> I31738[style=invis]
+		T1202 -> P31738 -> T1082
+		P31739 [fillcolor="#cccccc" shape=point] //
+		I31739 [shape=box style=invis label="5|0&2|6#3|3&#92;n5|3&2|6#2|7&#92;n5|1&2|2#2|1&#92;n"]
+		P31739 -> I31739[style=invis]
+		A22830 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1202 -> P31739 -> A22830
+		T1202 -> P31720
+		P31740 [fillcolor="#cccccc" shape=point] //
+		I31740 [shape=box style=invis label="5|2&3|1#1|1&#92;n5|3&3|2#4|0&#92;n2|4&1|6#3|4&#92;n8|2&0|7#4|1&#92;n3|1&4|1#3|1&#92;n0|0&0|1#3|4&#92;n8|7&4|1#0|3&#92;n2|3&2|2#2|3&#92;n2|3&1|2#4|3&#92;n1|2&3|2#4|4&#92;n"]
+		P31740 -> I31740[style=invis]
+		A22831 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="4"]
+		T1202 -> P31740 -> A22831
+		T1202 -> P31720
+		P31741 [fillcolor="#cccccc" shape=point] //
+		I31741 [shape=box style=invis label="7|4&3|4#0|5&#92;n2|0&2|2#2|4&#92;n2|4&2|3#3|4&#92;n7|5&4|7#1|6&#92;n1|0&4|3#1|2&#92;n2|0&4|2#3|0&#92;n0|3&2|2#4|3&#92;n0|2&0|5#3|4&#92;n7|3&1|6#4|0&#92;n"]
+		P31741 -> I31741[style=invis]
+		T1202 -> P31741 -> T827
+		P31742 [fillcolor="#cccccc" shape=point] //
+		I31742 [shape=box style=invis label="0|2&2|3#1|7&#92;n3|3&3|7#0|4&#92;n8|4&3|4#3|1&#92;n2|6&2|7#1|0&#92;n4|6&3|1#3|6&#92;n1|0&2|0#2|5&#92;n5|5&1|5#4|4&#92;n1|2&0|1#2|1&#92;n"]
+		P31742 -> I31742[style=invis]
+		A22832 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1202 -> P31742 -> A22832
+		P31743 [fillcolor="#cccccc" shape=point] //
+		I31743 [shape=box style=invis label="5|7&2|0#0|6&#92;n8|0&2|4#0|6&#92;n6|4&1|3#3|3&#92;n2|6&4|0#2|0&#92;n1|4&2|0#1|6&#92;n7|5&0|0#2|5&#92;n8|2&4|3#1|0&#92;n2|4&4|2#0|2&#92;n8|0&3|2#2|4&#92;n"]
+		P31743 -> I31743[style=invis]
+		A22833 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1202 -> P31743 -> A22833
+		T1202 -> P31673
+		T1202 -> P31654
+		T1222 -> P31717
+		P31744 [fillcolor="#cccccc" shape=point] //
+		I31744 [shape=box style=invis label="2|5&0|1#4|7&#92;n5|5&2|4#2|3&#92;n0|0&0|1#1|7&#92;n2|6&3|7#3|7&#92;n6|1&1|7#4|3&#92;n"]
+		P31744 -> I31744[style=invis]
+		A22834 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1222 -> P31744 -> A22834
+		T1222 -> P31737
+		T1222 -> P31732
+		P31745 [fillcolor="#cccccc" shape=point] //
+		I31745 [shape=box style=invis label="7|1&1|4#1|3&#92;n8|0&4|0#2|4&#92;n7|6&3|1#0|4&#92;n1|4&1|0#1|7&#92;n5|7&0|2#4|0&#92;n0|5&0|4#2|1&#92;n1|7&3|4#2|4&#92;n3|6&2|0#0|1&#92;n"]
+		P31745 -> I31745[style=invis]
+		T1222 -> P31745 -> T1082
+		T1222 -> P31739
+		T1222 -> P31708
+		T1222 -> P31654
+		P31746 [fillcolor="#cccccc" shape=point] //
+		I31746 [shape=box style=invis label="2|0&0|0#0|6&#92;n7|2&4|4#2|3&#92;n6|5&1|1#3|0&#92;n7|0&1|1#2|1&#92;n2|6&4|0#2|3&#92;n"]
+		P31746 -> I31746[style=invis]
+		A22835 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1222 -> P31746 -> A22835
+		P31747 [fillcolor="#cccccc" shape=point] //
+		I31747 [shape=box style=invis label="6|0&4|6#1|6&#92;n4|4&0|1#0|7&#92;n2|1&2|7#1|4&#92;n6|6&0|3#0|1&#92;n5|3&2|1#4|7&#92;n0|1&2|5#3|3&#92;n"]
+		P31747 -> I31747[style=invis]
+		T1222 -> P31747 -> T763
+		P31748 [fillcolor="#cccccc" shape=point] //
+		I31748 [shape=box style=invis label="2|6&3|4#1|3&#92;n1|0&2|1#4|7&#92;n2|4&0|3#2|5&#92;n4|4&1|6#2|5&#92;n6|1&0|2#3|2&#92;n2|7&2|7#0|6&#92;n"]
+		P31748 -> I31748[style=invis]
+		T1222 -> P31748 -> T1131
+		T1222 -> P31721
+		P31749 [fillcolor="#cccccc" shape=point] //
+		I31749 [shape=box style=invis label="5|5&2|4#2|3&#92;n5|7&4|6#2|1&#92;n2|0&3|7#3|7&#92;n0|0&0|5#1|7&#92;n2|5&0|1#4|7&#92;n6|1&1|7#4|3&#92;n"]
+		P31749 -> I31749[style=invis]
+		A22836 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1222 -> P31749 -> A22836
+		T1222 -> P31743
+		T1254 -> P31673
+		T1254 -> P31699
+		P31750 [fillcolor="#cccccc" shape=point] //
+		I31750 [shape=box style=invis label="8|1&0|6#0|4&#92;n4|6&4|5#3|5&#92;n8|6&0|0#0|1&#92;n0|7&0|2#3|3&#92;n2|0&4|3#4|3&#92;n5|4&0|5#0|4&#92;n3|7&3|3#0|5&#92;n"]
+		P31750 -> I31750[style=invis]
+		T1254 -> P31750 -> T1130
+		P31751 [fillcolor="#cccccc" shape=point] //
+		I31751 [shape=box style=invis label="8|3&2|2#1|4&#92;n6|7&2|4#3|6&#92;n3|7&3|4#3|7&#92;n8|0&2|5#0|3&#92;n5|5&0|1#1|5&#92;n5|3&3|7#2|3&#92;n4|6&4|3#3|4&#92;n"]
+		P31751 -> I31751[style=invis]
+		A22837 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T1254 -> P31751 -> A22837
+		P31752 [fillcolor="#cccccc" shape=point] //
+		I31752 [shape=box style=invis label="8|0&0|1#0|4&#92;n0|2&4|1#2|1&#92;n4|4&1|7#2|5&#92;n7|5&3|7#4|4&#92;n2|6&2|7#0|6&#92;n4|5&2|6#4|2&#92;n2|4&3|6#2|3&#92;n2|4&0|6#2|5&#92;n3|4&3|7#4|1&#92;n"]
+		P31752 -> I31752[style=invis]
+		A22838 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1254 -> P31752 -> A22838
+		P31753 [fillcolor="#cccccc" shape=point] //
+		I31753 [shape=box style=invis label="1|0&0|5#1|3&#92;n1|4&1|1#4|0&#92;n0|7&1|6#1|3&#92;n5|4&4|7#3|6&#92;n3|1&0|2#0|4&#92;n2|2&1|5#2|0&#92;n"]
+		P31753 -> I31753[style=invis]
+		A22839 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1254 -> P31753 -> A22839
+		P31754 [fillcolor="#cccccc" shape=point] //
+		I31754 [shape=box style=invis label="3|3&2|5#1|0&#92;n4|2&3|6#2|2&#92;n7|3&0|6#1|3&#92;n8|2&2|2#4|7&#92;n6|0&2|7#3|6&#92;n5|0&4|7#3|6&#92;n"]
+		P31754 -> I31754[style=invis]
+		A22840 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1254 -> P31754 -> A22840
+		T1254 -> P31708
+		P31755 [fillcolor="#cccccc" shape=point] //
+		I31755 [shape=box style=invis label="0|7&1|6#3|0&#92;n5|0&4|3#4|4&#92;n6|1&1|2#4|7&#92;n7|5&1|7#3|1&#92;n6|5&4|5#2|4&#92;n3|5&4|2#3|7&#92;n"]
+		P31755 -> I31755[style=invis]
+		T1254 -> P31755 -> T1150
+		P31756 [fillcolor="#cccccc" shape=point] //
+		I31756 [shape=box style=invis label="2|7&4|7#4|0&#92;n8|4&1|2#4|3&#92;n1|4&4|0#1|4&#92;n7|0&3|3#4|5&#92;n6|1&0|6#1|2&#92;n"]
+		P31756 -> I31756[style=invis]
+		A22841 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1254 -> P31756 -> A22841
+		T1254 -> P31708
+		T1254 -> P31662
+		T1254 -> P31654
+		T1254 -> P31732
+		T1254 -> P31674
+		P31757 [fillcolor="#cccccc" shape=point] //
+		I31757 [shape=box style=invis label="2|0&2|5#0|3&#92;n3|0&2|0#0|3&#92;n"]
+		P31757 -> I31757[style=invis]
+		A22842 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1326 -> P31757 -> A22842
+		P31758 [fillcolor="#cccccc" shape=point] //
+		I31758 [shape=box style=invis label="2|3&2|2#2|4&#92;n8|4&1|4#0|5&#92;n3|1&2|1#3|5&#92;n0|0&0|1#3|4&#92;n4|2&0|4#1|3&#92;n1|6&3|2#4|4&#92;n2|3&1|2#4|3&#92;n7|3&4|7#1|6&#92;n7|5&1|6#3|3&#92;n3|3&1|6#0|7&#92;n"]
+		P31758 -> I31758[style=invis]
+		A22843 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="5"]
+		T1326 -> P31758 -> A22843
+		T1326 -> P31742
+		P31759 [fillcolor="#cccccc" shape=point] //
+		I31759 [shape=box style=invis label="7|1&1|4#1|3&#92;n7|6&3|1#0|4&#92;n0|5&3|4#2|1&#92;n5|7&0|2#4|0&#92;n8|0&4|0#2|4&#92;n3|6&2|0#0|1&#92;n"]
+		P31759 -> I31759[style=invis]
+		T1326 -> P31759 -> T1082
+		P31760 [fillcolor="#cccccc" shape=point] //
+		I31760 [shape=box style=invis label="5|1&0|3#3|5&#92;n6|4&1|6#2|1&#92;n2|0&3|1#4|7&#92;n"]
+		P31760 -> I31760[style=invis]
+		A22844 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1326 -> P31760 -> A22844
+		P31761 [fillcolor="#cccccc" shape=point] //
+		I31761 [shape=box style=invis label="0|6&1|5#2|6&#92;n8|1&2|7#2|4&#92;n8|0&0|6#0|5&#92;n6|7&4|7#3|6&#92;n0|7&2|4#0|3&#92;n1|4&4|1#3|6&#92;n7|4&1|7#2|3&#92;n7|7&2|0#3|0&#92;n6|4&0|0#1|5&#92;n5|6&4|4#3|7&#92;n"]
+		P31761 -> I31761[style=invis]
+		T1326 -> P31761 -> T1222
+		P31762 [fillcolor="#cccccc" shape=point] //
+		I31762 [shape=box style=invis label="1|0&3|7#2|5&#92;n1|4&2|4#1|2&#92;n2|4&3|5#2|5&#92;n"]
+		P31762 -> I31762[style=invis]
+		A22845 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1326 -> P31762 -> A22845
+		P31763 [fillcolor="#cccccc" shape=point] //
+		I31763 [shape=box style=invis label="3|0&4|1#2|1&#92;n1|5&3|7#2|3&#92;n8|3&0|7#2|5&#92;n"]
+		P31763 -> I31763[style=invis]
+		A22846 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1326 -> P31763 -> A22846
+		T1326 -> P31656
+		P31764 [fillcolor="#cccccc" shape=point] //
+		I31764 [shape=box style=invis label="2|0&3|7#3|7&#92;n5|5&2|7#0|6&#92;n5|5&2|4#2|3&#92;n2|5&0|1#4|7&#92;n2|1&4|6#2|0&#92;n6|1&2|7#4|3&#92;n7|4&3|3#0|0&#92;n"]
+		P31764 -> I31764[style=invis]
+		T1326 -> P31764 -> T1202
+		P31765 [fillcolor="#cccccc" shape=point] //
+		I31765 [shape=box style=invis label="8|0&0|1#0|4&#92;n3|4&3|7#4|1&#92;n4|4&1|7#2|5&#92;n7|5&3|7#4|4&#92;n2|6&2|7#0|6&#92;n2|4&3|6#2|3&#92;n2|4&0|3#2|5&#92;n0|2&4|1#2|1&#92;n"]
+		P31765 -> I31765[style=invis]
+		A22847 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1326 -> P31765 -> A22847
+		P31766 [fillcolor="#cccccc" shape=point] //
+		I31766 [shape=box style=invis label="7|4&3|4#0|5&#92;n7|5&4|7#1|6&#92;n2|4&3|3#3|4&#92;n2|0&2|2#2|4&#92;n2|1&4|2#3|0&#92;n1|0&4|3#1|2&#92;n0|3&2|2#4|3&#92;n0|2&0|5#3|4&#92;n4|6&0|0#0|6&#92;n7|3&1|6#4|0&#92;n"]
+		P31766 -> I31766[style=invis]
+		T1326 -> P31766 -> T827
+		P31767 [fillcolor="#cccccc" shape=point] //
+		I31767 [shape=box style=invis label="2|3&1|2#4|3&#92;n2|3&2|2#2|4&#92;n8|7&3|1#0|3&#92;n8|4&3|4#0|5&#92;n3|1&4|1#3|5&#92;n1|2&3|2#4|4&#92;n2|4&1|6#3|4&#92;n7|3&4|7#1|6&#92;n5|3&3|0#4|0&#92;n0|0&0|1#3|4&#92;n"]
+		P31767 -> I31767[style=invis]
+		A22848 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="8"]
+		T1326 -> P31767 -> A22848
+		P31768 [fillcolor="#cccccc" shape=point] //
+		I31768 [shape=box style=invis label="8|4&1|2#4|3&#92;n2|7&4|3#4|0&#92;n6|1&0|6#1|2&#92;n1|7&1|0#1|2&#92;n1|0&3|2#4|3&#92;n1|4&4|4#1|4&#92;n"]
+		P31768 -> I31768[style=invis]
+		A22849 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1326 -> P31768 -> A22849
+		T1326 -> P31761
+		P31769 [fillcolor="#cccccc" shape=point] //
+		I31769 [shape=box style=invis label="2|6&3|4#3|6&#92;n2|0&3|7#3|7&#92;n4|0&3|6#2|4&#92;n2|5&0|1#1|7&#92;n5|5&2|6#2|3&#92;n7|4&4|1#0|6&#92;n"]
+		P31769 -> I31769[style=invis]
+		A22850 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1542 -> P31769 -> A22850
+		P31770 [fillcolor="#cccccc" shape=point] //
+		I31770 [shape=box style=invis label="7|3&3|2#3|7&#92;n0|6&1|0#0|6&#92;n3|0&0|6#1|7&#92;n0|0&1|2#1|3&#92;n6|2&1|2#4|5&#92;n4|4&4|0#1|0&#92;n7|5&4|6#1|4&#92;n6|2&3|2#1|3&#92;n3|4&1|4#2|5&#92;n3|4&4|5#1|2&#92;n"]
+		P31770 -> I31770[style=invis]
+		A22851 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="6"]
+		T1542 -> P31770 -> A22851
+		P31771 [fillcolor="#cccccc" shape=point] //
+		I31771 [shape=box style=invis label="8|1&0|0#0|2&#92;n4|1&2|0#3|4&#92;n5|3&4|3#2|5&#92;n0|3&4|7#2|5&#92;n7|7&2|6#3|1&#92;n7|0&1|0#2|1&#92;n8|1&4|6#2|4&#92;n"]
+		P31771 -> I31771[style=invis]
+		A22852 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1542 -> P31771 -> A22852
+		T1542 -> P31683
+		P31772 [fillcolor="#cccccc" shape=point] //
+		I31772 [shape=box style=invis label="2|4&1|7#3|1&#92;n0|3&1|0#1|2&#92;n8|7&2|1#0|3&#92;n2|4&1|5#3|0&#92;n1|1&0|2#4|4&#92;n2|3&1|2#4|3&#92;n8|0&0|1#3|4&#92;n8|1&4|1#3|5&#92;n7|1&0|3#4|7&#92;n"]
+		P31772 -> I31772[style=invis]
+		T1542 -> P31772 -> T1326
+		P31773 [fillcolor="#cccccc" shape=point] //
+		I31773 [shape=box style=invis label="0|3&0|6#4|2&#92;n3|5&0|4#2|1&#92;n4|1&3|2#2|7&#92;n3|6&2|0#0|1&#92;n8|0&4|0#2|4&#92;n7|1&1|4#1|3&#92;n1|7&3|4#3|4&#92;n7|7&2|1#0|1&#92;n"]
+		P31773 -> I31773[style=invis]
+		T1542 -> P31773 -> T1254
+		P31774 [fillcolor="#cccccc" shape=point] //
+		I31774 [shape=box style=invis label="0|2&4|0#2|3&#92;n1|5&0|1#0|6&#92;n3|0&0|2#1|5&#92;n8|6&4|3#3|6&#92;n"]
+		P31774 -> I31774[style=invis]
+		T1542 -> P31774 -> T1064
+		P31775 [fillcolor="#cccccc" shape=point] //
+		I31775 [shape=box style=invis label="4|6&3|1#3|6&#92;n3|3&3|0#3|7&#92;n8|3&4|4#2|6&#92;n2|0&2|7#1|0&#92;n0|7&2|3#1|7&#92;n5|5&1|0#4|4&#92;n3|3&3|7#0|4&#92;n7|5&2|7#2|6&#92;n"]
+		P31775 -> I31775[style=invis]
+		A22853 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1542 -> P31775 -> A22853
+		P31776 [fillcolor="#cccccc" shape=point] //
+		I31776 [shape=box style=invis label="4|5&4|5#3|1&#92;n8|0&1|6#0|7&#92;n8|1&4|1#3|5&#92;n1|1&3|2#4|4&#92;n8|7&2|1#0|3&#92;n0|3&1|0#1|1&#92;n2|4&1|7#3|1&#92;n7|1&0|3#4|7&#92;n2|3&1|2#4|3&#92;n8|0&0|1#3|4&#92;n"]
+		P31776 -> I31776[style=invis]
+		T1542 -> P31776 -> T1326
+		T1542 -> P31655
+		P31777 [fillcolor="#cccccc" shape=point] //
+		I31777 [shape=box style=invis label="8|1&2|7#2|4&#92;n7|4&1|7#2|2&#92;n6|7&4|7#3|6&#92;n0|4&2|4#0|3&#92;n7|7&2|0#3|0&#92;n1|4&4|1#3|6&#92;n8|0&0|6#0|5&#92;n6|4&0|0#1|5&#92;n5|7&4|4#3|7&#92;n"]
+		P31777 -> I31777[style=invis]
+		T1542 -> P31777 -> T1222
+		T1542 -> P31731
+		T1542 -> P31768
+		T1542 -> P31655
+		P31778 [fillcolor="#cccccc" shape=point] //
+		I31778 [shape=box style=invis label="2|2&0|6#3|7&#92;n4|3&1|5#1|6&#92;n3|0&3|4#3|7&#92;n7|7&4|7#4|0&#92;n6|3&3|7#1|6&#92;n"]
+		P31778 -> I31778[style=invis]
+		A22854 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1692 -> P31778 -> A22854
+		P31779 [fillcolor="#cccccc" shape=point] //
+		I31779 [shape=box style=invis label="3|2&3|0#4|7&#92;n1|2&2|4#1|3&#92;n3|0&2|5#0|3&#92;n8|1&3|6#2|7&#92;n6|4&2|3#3|6&#92;n1|7&3|5#0|7&#92;n"]
+		P31779 -> I31779[style=invis]
+		A22855 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T1692 -> P31779 -> A22855
+		P31780 [fillcolor="#cccccc" shape=point] //
+		I31780 [shape=box style=invis label="2|3&1|2#4|3&#92;n8|0&1|6#0|7&#92;n0|3&1|0#1|1&#92;n7|1&0|3#4|7&#92;n8|7&2|1#0|3&#92;n8|1&4|1#3|3&#92;n2|4&1|7#3|1&#92;n1|1&3|2#4|4&#92;n0|5&4|5#3|3&#92;n8|0&0|1#3|4&#92;n"]
+		P31780 -> I31780[style=invis]
+		T1692 -> P31780 -> T1542
+		P31781 [fillcolor="#cccccc" shape=point] //
+		I31781 [shape=box style=invis label="5|0&2|7#1|0&#92;n7|1&1|3#1|1&#92;n0|5&3|3#3|3&#92;n"]
+		P31781 -> I31781[style=invis]
+		A22856 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="7"]
+		T1692 -> P31781 -> A22856
+		T1692 -> P31766
+		P31782 [fillcolor="#cccccc" shape=point] //
+		I31782 [shape=box style=invis label="5|2&4|6#3|6&#92;n1|0&0|1#3|4&#92;n"]
+		P31782 -> I31782[style=invis]
+		A22857 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1692 -> P31782 -> A22857
+		P31783 [fillcolor="#cccccc" shape=point] //
+		I31783 [shape=box style=invis label="7|4&4|1#0|6&#92;n4|0&3|6#2|4&#92;n2|5&0|1#1|7&#92;n5|5&2|6#2|3&#92;n2|6&3|4#3|6&#92;n0|3&2|6#2|7&#92;n"]
+		P31783 -> I31783[style=invis]
+		A22858 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="1"]
+		T1692 -> P31783 -> A22858
+		P31784 [fillcolor="#cccccc" shape=point] //
+		I31784 [shape=box style=invis label="7|1&0|3#4|7&#92;n1|1&0|2#4|4&#92;n7|0&0|1#1|0&#92;n8|2&0|1#3|4&#92;n0|3&1|0#1|4&#92;n2|4&1|7#3|1&#92;n8|0&0|1#3|4&#92;n2|4&3|5#3|7&#92;n"]
+		P31784 -> I31784[style=invis]
+		A22859 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="2"]
+		T1692 -> P31784 -> A22859
+		P31785 [fillcolor="#cccccc" shape=point] //
+		I31785 [shape=box style=invis label="2|1&3|6#0|6&#92;n3|6&4|0#0|7&#92;n7|0&4|3#3|0&#92;n1|3&0|7#3|4&#92;n"]
+		P31785 -> I31785[style=invis]
+		A22860 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T1692 -> P31785 -> A22860
+		T1692 -> P31761
+		P31786 [fillcolor="#cccccc" shape=point] //
+		I31786 [shape=box style=invis label="3|3&3|2#0|5&#92;n7|0&1|1#2|1&#92;n4|2&4|1#0|2&#92;n6|7&1|1#4|0&#92;n7|5&4|4#2|3&#92;n2|6&4|5#2|3&#92;n"]
+		P31786 -> I31786[style=invis]
+		A22861 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="3"]
+		T1692 -> P31786 -> A22861
+		T1692 -> P31649
+		{ rank= same T1692 }
+}
