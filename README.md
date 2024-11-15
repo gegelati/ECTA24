@@ -1,8 +1,8 @@
-# PPSN 2024 Artifacts
+# ECTA 2024 Artifacts
 
 This repository is associated to the following publication **(under review)**:
 
-*Q. Vacher, N. Beuve, P. Allaire, T. Marty, M. Dardaillon and K. Desnos. Low-complexity Genetic Reinforcement Learning for Robot Arm Trajectory Planning*
+*Q. Vacher, N. Beuve, P. Allaire, T. Marty, M. Dardaillon and K. Desnos. Hybrid Genetic Programming and Deep Reinforcement Learning for Low-Complexity Robot Arm Trajectory Planning*
 
 The repository contains:
 * Code and scripts to reproduce the experiments presented in the paper.
